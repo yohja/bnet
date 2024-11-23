@@ -1,0 +1,2 @@
+# bnet
+buat belajar aja
